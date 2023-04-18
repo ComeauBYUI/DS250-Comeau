@@ -18,7 +18,7 @@ This first Background section provides context for the project. Make sure you re
 {{% /notice %}}
 
 
-Python and VS Code are tools commonly used in the field of data science. During our first two days of class we will get VS Code prepped for data science programming. Completing Project 0 will set you pu for success the rest of the semester.
+Python and VS Code are tools commonly used in the field of data science. During our first two days of class we will get VS Code prepped for data science programming. Completing Project 0 will set you up for success the rest of the semester.
 
 ### Data
 
