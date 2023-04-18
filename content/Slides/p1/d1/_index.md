@@ -20,12 +20,12 @@ The [data science lab](https://byuidatascience.github.io/lab/)
 
 1. Quarto - "out of the frying pan and into the fire"
 2. __Finishing the Introduction Project__    
-    - Use the QMD Template [project template](https://byuistats.github.io/DS250-Comeau/template/ds250_project_template_clean.qmd)
+    - Use the QMD Template [project template](https://comeaubyui.github.io/DS250-Comeau/template/ds250_project_template_clean.qmd)
     - Render as HTML and upload in Canvas
 
 {{< faq "What was that data science community portion of our grade?" >}}
 
-__The [Syllabus](https://byuistats.github.io/DS250-Comeau/course-materials/syllabus/) has this section which says:__
+__The [Syllabus](https://comeaubyui.github.io/DS250-Comeau/course-materials/syllabus/) has this section which says:__
 
 > Data science community
 

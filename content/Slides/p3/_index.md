@@ -22,7 +22,7 @@ We will use a baseball relational database to explore SQL in Python for data sci
 
 Use the [data.world baseball url](https://byuistats.github.io/CSE250-Course/data/lahmansbaseballdb.sqlite) for the 
 __Data Connection__. You can read the    
-__Connection Instructions__ [for data.world here](https://byuistats.github.io/DS250-Comeau/slides/p3/d1/)
+__Connection Instructions__ [for data.world here](https://comeaubyui.github.io/DS250-Comeau/slides/p3/d1/)
 
 
 ### Grand Questions

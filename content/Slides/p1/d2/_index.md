@@ -25,7 +25,7 @@ keywords: [""]
 1. If you still cannot render a document in Quarto, let me know
 1. Is python, at least up and running?  able to plot graphs and make tables?
 1. Finishing up a report
-  * [Markdown](https://byuistats.github.io/DS250-Comeau/course-materials/markdown/)
+  * [Markdown](https://comeaubyui.github.io/DS250-Comeau/course-materials/markdown/)
     * Tables - want to have the printed table in Markdown area, not a code area
   * HTML submissions
 
@@ -33,7 +33,7 @@ Other hints:
 1. Tutoring Lab Slack Channel:  #tutoring_lab
 
 
-#### Back to Day 1 [Slides](https://byuistats.github.io/DS250-Comeau/slides/p1/d1/)
+#### Back to Day 1 [Slides](https://comeaubyui.github.io/DS250-Comeau/slides/p1/d1/)
 
 <!------------------
 #### Thoughts about reading notes

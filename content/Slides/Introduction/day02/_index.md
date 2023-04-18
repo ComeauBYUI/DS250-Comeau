@@ -36,7 +36,7 @@ All the answers will be in the assigned reading or in these slides.
 
 #### Installing Packages and Extensions
 
-Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](https://byuistats.github.io/DS250-Comeau/course-materials/python-for-data-science/).
+Learn how to install packages by reading the assigned material and by watching the video tutorial on [this page](https://comeaubyui.github.io/DS250-Comeau/course-materials/python-for-data-science/).
 
 The readings mention a lot of different packages. For Project 0, you need to install at least `pandas`, `altair`, `numpy`, `tabulate`, and `jupyter`.
 
@@ -65,7 +65,7 @@ Or you can choose to stick with the [Python Interactive window](https://code.vis
 - Used widely among programmers for clean documentation 
 - Used widely by Data Scientists to publish results and communicate with stakeholders
 
-[Here's a good summary](https://byuistats.github.io/DS250-Comeau/course-materials/markdown/)
+[Here's a good summary](https://comeaubyui.github.io/DS250-Comeau/course-materials/markdown/)
 
 #### Quarto
 
