@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://byuistats.github.io/DS250-Course"
-# https:byuistats.github.io/DS250-Course
+baseURL = "https://comeaubyui.github.io/DS250-Comeau/"
+# https://comeaubyui.github.io/DS250-Comeau/
 # theme
 theme = "Dot"
 # site title
